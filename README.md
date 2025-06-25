@@ -8,13 +8,7 @@
                                                                   
 
 
-```
 
-This repo will probs be used to host some guides in the near future stay tuned!
-
-
-
-```
 
 
 
